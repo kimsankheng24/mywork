@@ -1,0 +1,12 @@
+name = "my-work-api"
+main = "src/index.ts"
+compatibility_date = "2024-06-24"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "my-work-db"
+database_id = "2a668f65-3152-4214-8d81-c4ca7e81dc8a"
+
+[[r2_buckets]]
+binding = "STORAGE_BUCKET"
+bucket_name = "my-work-storage"
